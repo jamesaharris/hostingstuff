@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+ardescription: Freera1n Server
+logo: 'freera1n.png'
+show_downloads: false
+markdown: gfm
+title: null
+name: Home
