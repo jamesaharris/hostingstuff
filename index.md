@@ -10,5 +10,8 @@ We are just a group of friends hosting our own servers, having fun with some of 
 
 ### Current filming/streamers on our server, 
 
-### Our Developer/Mod team
+<p align=center><img width=40% align=left src= https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/n52.png> <img width=40% align=right src= https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/hyper.png> </p align=center>
+
+
+<img width=40% align=left src= >
 
