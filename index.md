@@ -10,8 +10,6 @@ We are just a group of friends hosting our own servers, having fun with some of 
 
 ### Current filming/streamers on our server, 
 
-<p align=center><img width=40% align=left src= https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/n52.png> <img width=40% align=right src= https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/hyper.png> </p align=center>
+<p align=center><img width=40% src= https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/n52.png> <img width=40% src= https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/hyper.png> <img width=40% src=https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/tangent.png> <img width=40% src=https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/asmfpv.png><img width=40% src=https://raw.githubusercontent.com/jamesaharris/hostingstuff/freera1n/bballboss88.png>  </p align=center>
 
-
-<img width=40% align=left src= >
 
